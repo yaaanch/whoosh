@@ -31,6 +31,6 @@ Liu Zechu A0188295L
 
 In charge of implementing the backend server to provide API endpoints for the application, and implementing the frontend website screens for restaurant managers. Also integrated JSON Web Token for server authentication and Firebase Authentication for user (restaurant manager) authentication.
 
-Ong Yan Chun A0190353J
+Yanch Ong A0190353J
 
 In charge of User Interface and User Experience Design. Collected brief user feedback on designs. Conceptualised and created monster assets. Created animations and dynamic elements in Flare Flutter. Handled marketing of the app—from creating marketing assets to writing the pitch.
